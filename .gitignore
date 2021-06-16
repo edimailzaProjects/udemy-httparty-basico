@@ -6,6 +6,7 @@
 /public/system
 /coverage/
 /spec/tmp
+/results
 **.orig
 rerun.txt
 Gemfile.lock
